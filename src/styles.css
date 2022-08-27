@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(233, 227, 227);
+}
+
+h1 {
+    color: tomato;
+}
